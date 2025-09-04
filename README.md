@@ -14,14 +14,15 @@
 
 ---
 
-###  About Me  
+<h2 align="center">✨ About Me ✨</h2>
 
--  Back-End Developer (Laravel / PHP / MySQL)  
--  Based in Suez, Egypt  
--  Passionate about problem-solving and clean code  
--  Currently working on: ERP projects & student grading systems  
--  Ask me about PHP, Laravel, MySQL, or C Programming  
--  Reach me: [fatmahaddanin167@gmail.com]
+<p align="center">
+   <span style="font-family: 'Segoe UI', sans-serif; font-size: 16px;">
+   • <b>Back-End Developer</b> (Laravel / PHP / MySQL) &nbsp;&nbsp;&nbsp; • <b>Based in</b> Suez, Egypt <br><br>
+   • <b>Passionate about</b> problem-solving & clean code &nbsp;&nbsp;&nbsp; • <b>Currently working on</b>: ERP projects & student grading systems <br><br>
+   • <b>Ask me about</b>: PHP, Laravel, MySQL, C Programming &nbsp;&nbsp;&nbsp; • <b>Reach me</b>: <a href="mailto:fatmahaddanin167@gmail.com">fatmahaddanin167@gmail.com</a>
+   </span>
+</p>
 
 ---
 
