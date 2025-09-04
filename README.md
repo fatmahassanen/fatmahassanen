@@ -30,13 +30,14 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
-  <code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"></code>
-  <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-  <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
-  <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+  <code><img height="30" alt="php" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" style="margin: 0 10px;"></code>
+  <code><img height="30" alt="laravel" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" style="margin: 0 10px;"></code>
+  <code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" style="margin: 0 10px;"></code>
+  <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" style="margin: 0 10px;"></code>
+  <code><img height="30" alt="git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" style="margin: 0 10px;"></code>
+  <code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" style="margin: 0 10px;"></code>
 </p>
+
 
 
 
