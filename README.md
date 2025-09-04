@@ -1,10 +1,10 @@
-<h1 align="center">👋 Hi, I'm Fatma Hassanein</h1>
+<h1 align="center"> Hi, I'm Fatma Hassanein</h1>
 <p align="center">
-   🚀 An ambitious Back-End Developer (Laravel & Livewire)  
+    An ambitious Back-End Developer (Laravel & Livewire)  
 </p>
 
 <p align="center">
-   💡 I’m growing my skills every day and building real projects that make an impact.  
+    I’m growing my skills every day and building real projects that make an impact.  
 </p>
 
 <p align="center">
@@ -14,14 +14,14 @@
 
 ---
 
-### 👩‍💻 About Me  
+###  About Me  
 
-- 💼 Back-End Developer (Laravel / PHP / MySQL)  
-- 🌍 Based in Suez, Egypt  
-- 🚀 Passionate about problem-solving and clean code  
-- 🔧 Currently working on: ERP projects & student grading systems  
-- 💬 Ask me about PHP, Laravel, MySQL, or C Programming  
-- 📫 Reach me: [your.email@example.com](mailto:your.email@example.com)  
+-  Back-End Developer (Laravel / PHP / MySQL)  
+-  Based in Suez, Egypt  
+-  Passionate about problem-solving and clean code  
+-  Currently working on: ERP projects & student grading systems  
+-  Ask me about PHP, Laravel, MySQL, or C Programming  
+-  Reach me: [fatmahaddanin167@gmail.com]
 
 ---
 
