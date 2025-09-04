@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-   <i>You can also call me Tommy ✨</i>
+   <i>You can also call me Tommy </i>
 </p>
 
 
@@ -27,14 +27,19 @@
 
 ---
 
-### 🛠️ Tech Stack  
+<h2 align="center">Tech Stack</h2>
 
-<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
-<code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
-<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<p align="center">
+  <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
+  <code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"></code>
+  <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+  <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+  <code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+  <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+</p>
+
+
+
 
 ---
 
