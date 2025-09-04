@@ -18,10 +18,10 @@
 
 <p align="center">
    <span style="font-family: 'Segoe UI', sans-serif; font-size: 16px;">
-    <p align="center"> • <b>Back-End Developer</b> (Laravel / PHP / MySQL) &nbsp;&nbsp;&nbsp; </p><br><br>
-    <p align="center">• <b>Passionate about</b> problem-solving & clean code &nbsp;&nbsp;&nbsp; • <b>Currently working on</b>: ERP projects & student grading systems</p> <br><br>
+    <p align="center"> • <b>Back-End Developer</b> (Laravel / PHP / MySQL) &nbsp;&nbsp;&nbsp; </p><br>
+    <p align="center">• <b>Passionate about</b> problem-solving & clean code &nbsp;&nbsp;&nbsp; • <b>Currently working on</b>: ERP projects & student grading systems</p> <br>
     <p align="center">• <b>Ask me about</b>: PHP, Laravel, MySQL, C Programming &nbsp;&nbsp;&nbsp; • <b>Reach me</b>: <a href="mailto:fatmahaddanin167@gmail.com">fatmahaddanin167@gmail.com</a></p> <br><br>
-   <p align="center">• <b>Based in</b> Suez, Egypt </p><br><br>
+   <p align="center">• <b>Based in</b> Suez, Egypt </p><br>
    </span>
 </p>
 
