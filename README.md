@@ -28,16 +28,13 @@
 
 ---
 
-<h2 align="center">Tech Stack</h2>
-
 <p align="center">
-  <code><img height="30" alt="php" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png" style="margin: 0 10px;"></code>
-  <code><img height="30" alt="laravel" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png" style="margin: 0 10px;"></code>
-  <code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" style="margin: 0 10px;"></code>
-  <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" style="margin: 0 10px;"></code>
-  <code><img height="30" alt="git" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" style="margin: 0 10px;"></code>
-  <code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" style="margin: 0 10px;"></code>
+  
+  <img src="https://github.com/fatmahassanen/README-photo/blob/main/Untitled.png?raw=true" alt="Fatma's Photo" width="200" style="border-radius: 50%; margin-right: 20px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatmahassanen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fatma's GitHub stats" width="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmahassanen&layout=compact&theme=buefy&hide_border=true" width="200" />
 </p>
+
 
 
 
