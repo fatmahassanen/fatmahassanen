@@ -29,11 +29,9 @@
 ---
 
 <p align="center">
-  
-  <img src="https://github.com/fatmahassanen/README-photo/blob/main/Untitled.png?raw=true" alt="Fatma's Photo" width="200" style="border-radius: 50%; margin-right: 20px;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fatmahassanen&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fatma's GitHub stats" width="300" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmahassanen&layout=compact&theme=buefy&hide_border=true" width="200" />
+  <img src="https://github.com/fatmahassanen/README-photo/blob/main/Untitled.png?raw=true" alt="Fatma's Full Screen" width="100%" />
 </p>
+
 
 
 
