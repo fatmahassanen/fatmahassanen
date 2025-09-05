@@ -38,19 +38,4 @@
 
 
 
----
 
-### 📊 GitHub Stats  
-
-| <a href="https://github.com/YourUserName"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Tomi's GitHub stats" /></a> | <a href="https://github.com/YourUserName"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
----
-
-### 🔗 Connect with Me  
-
-<p align="left">
-<a href="https://www.linkedin.com/in/yourprofile/"><img alt="LinkedIn" title="LinkedIn" height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-<a href="mailto:your.email@example.com"><img alt="Gmail" title="Email" height="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>
-<a href="https://github.com/YourUserName"><img alt="GitHub" title="GitHub" height="30" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></a>
-</p>
